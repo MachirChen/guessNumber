@@ -292,6 +292,9 @@
 				DEVELOPMENT_TEAM = BG5KQAM479;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = guessNumber/Info.plist;
+				INFOPLIST_KEY_CFBundleExecutable = guessNumber;
+				INFOPLIST_KEY_CFBundleName = guessNumberApp;
+				INFOPLIST_KEY_CFBundleVersion = 1;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -320,6 +323,9 @@
 				DEVELOPMENT_TEAM = BG5KQAM479;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = guessNumber/Info.plist;
+				INFOPLIST_KEY_CFBundleExecutable = guessNumber;
+				INFOPLIST_KEY_CFBundleName = guessNumberApp;
+				INFOPLIST_KEY_CFBundleVersion = 1;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
